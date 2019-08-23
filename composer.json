@@ -1,0 +1,17 @@
+{
+  "name": "NewNamspaceCreated_NewModule",
+  "type": "library",
+  "description": "NewNamspaceCreated NewModule",
+  "keywords": ["log","logging"],
+  "license" : "MIT",
+  "authors" : [
+    {
+    "name"  : "Ankith G",
+    "email" : "ankithg3@gmail.com",
+    "role"  : "Developer"
+    }
+  ],
+    "require": {
+      "php": ">=5.3.0"
+    }
+}
