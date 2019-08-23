@@ -1,7 +1,7 @@
 <?php
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::MODULE,
-    'NewNamespaceCreated_NewModule',
+    'newnamespacecreated_newmodule',
     __DIR__
 );
 ?>
